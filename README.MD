@@ -1,21 +1,21 @@
 <div align="center">
-<img src="https://media.giphy.com/media/qP2YwW2BpB2K0qMjMk/giphy.gif" align="center" style="width: 100%" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artprintdecor.com.br%2Fprodutos%2Fplaca-welcome-40x15-cm%2F&psig=AOvVaw3wEeuxlRJaoPhIHDtNR0kI&ust=1617747231572000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNi_85qQ6O8CFQAAAAAdAAAAABAD" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm João Cardoso (_joca), a full-time developer 👨‍💻 working remotely since 2019 🚀</div>  
+### <div align="center">I'm _joca, a Python developer 🐍 working with technology and programming since 2019 🚀</div>  
   
 
-- 🔭 I’m currently working on [Python Tests] (https://github.com/jvitorcardoso/pytests) and [composite format strings] (https://docs.microsoft.com/en-us/dotnet/standard/base-types/composite-formatting) on C#  
+- 🔭 I’m currently working on [Object-Oriented Design](https://en.wikipedia.org/wiki/Object-oriented_design#:~:text=Object%2Doriented%20design%20is%20the,one%20approach%20to%20software%20design.)  
   
 
-- 🌱 I’m currently learning Django and SQL  
+- 🌱 I’m currently learning Django & .NET enviromnment  
   
 
-- ❓ Ask me about Python, data analysis with R, and TDD  
+- ❓ Ask me about anything related to .py and web development  
   
 
-- ⚡ Fun fact: I ❤️ coffee  
+- ⚡ Fun fact: I ❤️ coffee!  
   
 
 <br/>  
@@ -28,8 +28,9 @@
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -38,9 +39,7 @@
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
 </div>
 
@@ -52,7 +51,6 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />  
 </div>
 
 </td></tr></table>  
@@ -65,17 +63,17 @@
 <a href="https://github.com/jvitorcardoso" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/jvitorcardoso" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/vitor.joaocardoso" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
 <a href="https://twitter.com/joao_ocardoso" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/joão-cardoso-7a8526b2/" target="_blank">
+<a href="https://dev.to/jvitorcardoso" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/joão-cardoso-7a8526b2" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/vitor.joaocardoso" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
@@ -96,7 +94,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=aspirantevitor&cover_image=true&theme=default" /></div>  
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
 
