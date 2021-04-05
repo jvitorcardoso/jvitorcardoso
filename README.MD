@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artprintdecor.com.br%2Fprodutos%2Fplaca-welcome-40x15-cm%2F&psig=AOvVaw3wEeuxlRJaoPhIHDtNR0kI&ust=1617747231572000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNi_85qQ6O8CFQAAAAAdAAAAABAD" align="center" style="width: 100%" />
+<img src="https://static.vecteezy.com/system/resources/previews/001/195/702/original/speech-bubbles-pixel-welcome-png.png" align="center" style="width: 100%" />
 </div>  
   
 
