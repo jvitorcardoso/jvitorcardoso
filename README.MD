@@ -3,16 +3,18 @@
 </div>  
   
 
-### <div align="center">I'm _joca, a Python developer 🐍 working with technology and programming since 2019 🚀</div>  
+### <div align="center">Python developer 🐍 since '19. Java enthusiast, working with data engineering & API buildings. 🚀</div>  
+
+<br>
   
 
-- 🔭 I’m currently working on [Object-Oriented Design](https://en.wikipedia.org/wiki/Object-oriented_design#:~:text=Object%2Doriented%20design%20is%20the,one%20approach%20to%20software%20design.)  
+- 🔭 I’m currently working on [Event-Driven Architecture](https://en.wikipedia.org/wiki/Event-driven_architecture)  
   
 
-- 🌱 I’m currently learning Django & .NET enviromnment  
+- 🌱 I’m currently learning about Rest API, design patterns, Apache Spark & Kafka 
   
 
-- ❓ Ask me about anything related to .py and web development  
+- ❓ Ask me about anything related to .py and ETL processing
   
 
 - ⚡ Fun fact: I ❤️ coffee!  
