@@ -113,5 +113,4 @@
 ## GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=jvitorcardoso&theme=neon-palenight&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
 
-## Linguagens Mais Utilizadas
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jvitorcardoso&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
